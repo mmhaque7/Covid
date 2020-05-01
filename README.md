@@ -1,3 +1,12 @@
+the tutorial of this app can be found at https://www.youtube.com/watch?v=khJlrj3Y6Ls&list=PLS8JF3HcdBU10gDuZHGUPZDl83DshJYat&index=10&t=0s
+
+github: https://github.com/adrianhajdin/project_corona_tracker
+
+API: https://covid19.mathdro.id/api
+github: https://github.com/mathdroid/covid-19-api
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
